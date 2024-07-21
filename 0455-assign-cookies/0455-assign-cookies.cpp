@@ -1,14 +1,22 @@
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
-        sort(g.begin(),g.end());
-        sort(s.begin(),s.end());
-        int i = 0, j=0;
-        while(i<g.size() && j<s.size()){
-            if(s[j]>=g[i])
-                i++; // when the child get the cookie, foward child by 1
-            j++;
+        std::sort(g.begin(), g.end());
+        std::sort(s.begin(), s.end());
+        int i = 0; // pointer for cookies
+        int j = 0; // pointer for children
+        int sz = s.size();
+        int gz = g.size();
+        int child = 0;
+        
+        while (i < sz && j < gz) {
+            if (s[i] >= g[j]) {
+                child++;
+                j++;
+            }
+            
+            i++;
         }
-        return i;
+        return child;
     }
 };
