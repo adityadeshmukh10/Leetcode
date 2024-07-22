@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityadeshmukh10/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adityadeshmukh10/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adityadeshmukh10/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityadeshmukh10/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityadeshmukh10/Leetcode/tree/master/0169-majority-element) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Dynamic Programming
 |  |
 | ------- |
