@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityadeshmukh10/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityadeshmukh10/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityadeshmukh10/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityadeshmukh10/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1748-best-team-with-no-conflicts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
