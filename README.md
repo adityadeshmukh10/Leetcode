@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adityadeshmukh10/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2727-number-of-senior-citizens](https://github.com/adityadeshmukh10/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/adityadeshmukh10/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2727-number-of-senior-citizens](https://github.com/adityadeshmukh10/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Matrix
 |  |
 | ------- |
