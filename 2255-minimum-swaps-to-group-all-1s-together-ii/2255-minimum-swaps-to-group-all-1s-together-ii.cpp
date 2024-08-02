@@ -1,5 +1,5 @@
- class Solution {
-public:
+class Solution {
+ public:
      int minSwaps(vector<int>& nums) {
          int n = nums.size();
          vector<int> temp(2*n);
@@ -23,3 +23,4 @@ public:
          return totalOnes - maxCount;
      }
  };
+
