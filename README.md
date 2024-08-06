@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityadeshmukh10/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/adityadeshmukh10/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2727-number-of-senior-citizens](https://github.com/adityadeshmukh10/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
