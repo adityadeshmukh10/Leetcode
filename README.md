@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityadeshmukh10/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adityadeshmukh10/Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/adityadeshmukh10/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadeshmukh10/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0054-spiral-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/adityadeshmukh10/Leetcode/tree/master/0273-integer-to-english-words) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
