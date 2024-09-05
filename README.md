@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adityadeshmukh10/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/adityadeshmukh10/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2155-find-missing-observations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adityadeshmukh10/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adityadeshmukh10/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2155-find-missing-observations) |
 ## Depth-First Search
 |  |
 | ------- |
