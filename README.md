@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityadeshmukh10/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0725-split-linked-list-in-parts](https://github.com/adityadeshmukh10/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/adityadeshmukh10/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Prefix Sum
 |  |
