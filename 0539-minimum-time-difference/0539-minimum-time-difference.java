@@ -12,15 +12,13 @@ class Solution {
             temp[i]=minute;
         }
         int n=tp.size();
-        // Arrays.sort(temp);
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                int diff=Math.abs(temp[i]-temp[j]);
-                if(diff>720)
-                    diff=1440-diff;
+        Arrays.sort(temp);
+        for(int i=0;i<n-1;i++){
+                int diff=temp[i+1]-temp[i];
                 minn=Math.min(diff,minn);
-            }
         }
-        return minn;
+
+
+        return Math.min(minn, 1440-(temp[n-1]-temp[0]));
     }
 }
