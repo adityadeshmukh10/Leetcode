@@ -1,41 +1,48 @@
 class Solution {
 public:
-    vector<string> uncommonFromSentences(string A, string B) {
-        
-        vector<string> res;
-        unordered_map<string, int> mp;
-        
+    vector<string> uncommonFromSentences(string a, string b) 
+    {
+        vector<string> v;
+        unordered_map<string,int> mp;
+
         string word = "";
-        for(char ch : A)
+        for(int i=0;i<a.length();i++)
         {
-            if(ch == ' ')
+            if(a[i]== ' ')
             {
                 mp[word]++;
                 word = "";
             }
             else
-                word += ch;
+            {
+                word += a[i];
+            }
         }
-        
+
         mp[word]++;
         word = "";
-        
-        for(char ch : B)
+
+        for(int i=0;i<b.length();i++)
         {
-            if(ch == ' ')
+            if(b[i]== ' ')
             {
                 mp[word]++;
                 word = "";
             }
             else
-                word += ch;
+            {
+                word += b[i];
+            }
         }
-        
         mp[word]++;
-        
-        for(auto i : mp)
-            if(i.second == 1) res.push_back(i.first);
-        
-        return res;
+
+        for(auto it=mp.begin();it!=mp.end();it++)
+        {
+            if(it->second==1)
+            {
+                v.push_back(it->first);
+            }
+        }
+        return v;
     }
 };
