@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/adityadeshmukh10/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adityadeshmukh10/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/adityadeshmukh10/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adityadeshmukh10/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2755-extra-characters-in-a-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/adityadeshmukh10/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityadeshmukh10/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1748-best-team-with-no-conflicts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1748-best-team-with-no-conflicts) |
+| [2755-extra-characters-in-a-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2727-number-of-senior-citizens](https://github.com/adityadeshmukh10/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
@@ -288,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/adityadeshmukh10/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/adityadeshmukh10/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
