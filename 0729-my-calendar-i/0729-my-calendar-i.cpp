@@ -1,22 +1,25 @@
-class MyCalendar
-{
+class MyCalendar {
 public:
-    map<int, int> mp;
-    MyCalendar()
-    {
+    vector<pair<int,int>>m;
+    MyCalendar() {
+        
     }
-
-    bool book(int start, int end)
-    {
-        auto it = mp.upper_bound(start);
-		// it->first = min end time greater than start
-		// it->second = start time of above obtained end time
-        if (it == mp.end() || it->second >= end)
+    
+    bool book(int start, int end) {
+        for(auto it:m)
         {
-            mp[end] = start;
-            return true;
+            if(it.first<end && start<it.second)
+            {
+                return false;
+            }
         }
-        else
-            return false;
+        m.push_back({start,end});
+        return true;
     }
 };
+
+/**
+ * Your MyCalendar object will be instantiated and called as such:
+ * MyCalendar* obj = new MyCalendar();
+ * bool param_1 = obj->book(start,end);
+ */
