@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/adityadeshmukh10/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/adityadeshmukh10/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adityadeshmukh10/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adityadeshmukh10/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityadeshmukh10/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/adityadeshmukh10/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/adityadeshmukh10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/adityadeshmukh10/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityadeshmukh10/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/adityadeshmukh10/Leetcode/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityadeshmukh10/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/adityadeshmukh10/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityadeshmukh10/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
