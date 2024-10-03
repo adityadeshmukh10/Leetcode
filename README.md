@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityadeshmukh10/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/adityadeshmukh10/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityadeshmukh10/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/adityadeshmukh10/Leetcode/tree/master/0859-design-circular-deque) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/adityadeshmukh10/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/adityadeshmukh10/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/adityadeshmukh10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adityadeshmukh10/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adityadeshmukh10/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
