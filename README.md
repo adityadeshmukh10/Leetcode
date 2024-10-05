@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/adityadeshmukh10/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/adityadeshmukh10/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/adityadeshmukh10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/adityadeshmukh10/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/adityadeshmukh10/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adityadeshmukh10/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/adityadeshmukh10/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/adityadeshmukh10/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/adityadeshmukh10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadeshmukh10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Recursion
 |  |
