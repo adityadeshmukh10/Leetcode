@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/adityadeshmukh10/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1748-best-team-with-no-conflicts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/adityadeshmukh10/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adityadeshmukh10/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2155-find-missing-observations) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/adityadeshmukh10/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/adityadeshmukh10/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/adityadeshmukh10/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adityadeshmukh10/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/adityadeshmukh10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/adityadeshmukh10/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/adityadeshmukh10/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adityadeshmukh10/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
