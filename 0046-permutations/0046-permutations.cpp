@@ -1,33 +1,23 @@
 class Solution {
-public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> resultList;
-        vector<int> tempList;
-        backtrack(resultList, tempList, nums);
-        return resultList;
-    }
-
-private:
-    void backtrack(vector<vector<int>>& resultList, vector<int>& tempList, vector<int>& nums) {
-        // If we match the length, it is a permutation
-        if (tempList.size() == nums.size()) {
-            resultList.push_back(tempList);
+    void solve(vector<int> nums, vector<vector<int>>&ans,int index)
+    {
+        if(index>=nums.size())
+        {
+            ans.push_back(nums);
             return;
         }
-
-        for (int number : nums) {
-            // Skip if we get the same element
-            if (find(tempList.begin(), tempList.end(), number) != tempList.end())
-                continue;
-
-            // Add the new element
-            tempList.push_back(number);
-
-            // Go back to try another element
-            backtrack(resultList, tempList, nums);
-
-            // Remove the element
-            tempList.pop_back();
+        for(int j=index;j<nums.size();j++)
+        {
+            swap(nums[index],nums[j]);
+            solve(nums,ans,index+1);
+            // swap(nums[index],nums[j]);
         }
+    }
+public:
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>> ans;
+        int index=0;
+        solve(nums,ans,index);
+        return ans;
     }
 };
