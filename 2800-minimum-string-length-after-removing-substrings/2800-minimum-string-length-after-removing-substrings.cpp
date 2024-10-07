@@ -1,24 +1,20 @@
 class Solution {
 public:
     int minLength(string s) {
-        string s1 = "AB";
-        string s2 = "CD";
-        
-        // Keep checking for s1 and s2 until they can no longer be found
-        while (s.find(s1) != string::npos || s.find(s2) != string::npos) {
-            // If "AB" is found, erase it
-             
-            if (s.find(s1) != string::npos) {
-                s.erase(s.find(s1), s1.length());
-            }
-            // If "CD" is found, erase it
-            
-            if (s.find(s2) != string::npos) {
-                s.erase(s.find(s2), s2.length());
+        stack<char> st;
+        int n=s.size();
+        for(int i=0;i<n;i++){
+            if(!st.empty() && ((st.top() == 'A' && s[i] == 'B') ||
+                
+                (st.top() =='C' && s[i]=='D')
+                 
+                )){
+                st.pop();
+            }else{
+                st.push(s[i]);
             }
         }
-        
-        // Return the length of the modified string
-        return s.length();
+        return st.size();
+
     }
 };
