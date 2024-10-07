@@ -7,14 +7,14 @@ public:
         // Keep checking for s1 and s2 until they can no longer be found
         while (s.find(s1) != string::npos || s.find(s2) != string::npos) {
             // If "AB" is found, erase it
-            size_t pos = s.find(s1);
-            if (pos != string::npos) {
-                s.erase(pos, s1.length());
+             
+            if (s.find(s1) != string::npos) {
+                s.erase(s.find(s1), s1.length());
             }
             // If "CD" is found, erase it
-            pos = s.find(s2);
-            if (pos != string::npos) {
-                s.erase(pos, s2.length());
+            
+            if (s.find(s2) != string::npos) {
+                s.erase(s.find(s2), s2.length());
             }
         }
         
