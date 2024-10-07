@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adityadeshmukh10/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/adityadeshmukh10/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/adityadeshmukh10/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adityadeshmukh10/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/adityadeshmukh10/Leetcode/tree/master/0075-sort-colors) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityadeshmukh10/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityadeshmukh10/Leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/adityadeshmukh10/Leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/adityadeshmukh10/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityadeshmukh10/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
