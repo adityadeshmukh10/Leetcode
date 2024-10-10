@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityadeshmukh10/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/adityadeshmukh10/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityadeshmukh10/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityadeshmukh10/Leetcode/tree/master/0283-move-zeroes) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadeshmukh10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/adityadeshmukh10/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/adityadeshmukh10/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/adityadeshmukh10/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/adityadeshmukh10/Leetcode/tree/master/0273-integer-to-english-words) |
