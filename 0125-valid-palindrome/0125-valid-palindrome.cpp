@@ -1,59 +1,32 @@
 class Solution {
-private:
-    bool valid(char ch)
-    {
-        if((ch>='a'&& ch<='z')||(ch>='A' && ch<='Z')||(ch>='0' && ch<='9'))
-        {
-            return 1;
-        }
-        return 0;
-    }
-    char toLowercase(char ch)
-    {
-        if((ch>='a' && ch<='z')||(ch>='0' && ch<='9'))
-        {
-            return ch;
-        }
-        else
-        {
-            char temp = ch - 'A' + 'a';
-            return temp;
-        }
-    }
-    bool checkPalindrome(string a)
-    {
-        int s=0;
-        int e=a.length()-1;
-        while(s<=e)
-        {
-            if(a[s]!=a[e])
-            {
-                return 0;
-            }
-            else
-            {
-                s++;
-                e--;
-            }
-        }
-        return 1;
-    }
 public:
-    bool isPalindrome(string s) {
-        //remove flatu character
-        string temp = "";
-        for(int j=0;j<s.length();j++)
-        {
-            if(valid(s[j]))
-            {
-                temp.push_back(s[j]);
+    bool isPalindrome(std::string s) {
+        // Step 1: Remove non-alphabetic characters
+        int n = s.length();
+        for (int i = 0; i < n; i++) {
+            if (!isalnum(s[i])) {
+                s.erase(i, 1);  // Erase non-alphabetic character
+                i--;  // Adjust the index after erase
+                n--;  // Reduce the length of the string as it's changed
             }
         }
-        //convert to lowercase
-        for(int j=0;j<temp.length();j++)
-        {
-            temp[j] = toLowercase(temp[j]);
+
+        // Step 2: Create a reversed copy of the cleaned string
+        std::string s1 = s;
+        for (int i = 0; i < n / 2; i++) {
+            std::swap(s1[i], s1[n - i - 1]);
         }
-        return checkPalindrome(temp);
+
+        // Step 3: Convert both strings to lowercase and check if they are the same
+        for (int i = 0; i < n; i++) {
+            s[i] = std::tolower(s[i]);
+            s1[i] = std::tolower(s1[i]);
+        }
+
+        // Step 4: Return true if the reversed string matches the original string
+        if (s1 == s) {
+            return true;
+        }
+        return false;
     }
 };
