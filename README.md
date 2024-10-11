@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityadeshmukh10/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityadeshmukh10/Leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/adityadeshmukh10/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/adityadeshmukh10/Leetcode/tree/master/0055-jump-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityadeshmukh10/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0179-largest-number) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adityadeshmukh10/Leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/adityadeshmukh10/Leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/adityadeshmukh10/Leetcode/tree/master/0120-triangle) |
