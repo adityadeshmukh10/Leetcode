@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityadeshmukh10/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/adityadeshmukh10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/adityadeshmukh10/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityadeshmukh10/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/adityadeshmukh10/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityadeshmukh10/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/adityadeshmukh10/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/adityadeshmukh10/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/adityadeshmukh10/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0380-insert-delete-getrandom-o1](https://github.com/adityadeshmukh10/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/adityadeshmukh10/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/adityadeshmukh10/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/adityadeshmukh10/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/adityadeshmukh10/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/adityadeshmukh10/Leetcode/tree/master/0859-design-circular-deque) |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adityadeshmukh10/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/adityadeshmukh10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/adityadeshmukh10/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
