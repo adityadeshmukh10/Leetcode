@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adityadeshmukh10/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/adityadeshmukh10/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adityadeshmukh10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityadeshmukh10/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/adityadeshmukh10/Leetcode/tree/master/0859-design-circular-deque) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/adityadeshmukh10/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adityadeshmukh10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/adityadeshmukh10/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/adityadeshmukh10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/adityadeshmukh10/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adityadeshmukh10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/adityadeshmukh10/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/adityadeshmukh10/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/adityadeshmukh10/Leetcode/tree/master/0455-assign-cookies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adityadeshmukh10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityadeshmukh10/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityadeshmukh10/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadeshmukh10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adityadeshmukh10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Recursion
 |  |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adityadeshmukh10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/adityadeshmukh10/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/adityadeshmukh10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Randomized
