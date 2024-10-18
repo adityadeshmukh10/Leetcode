@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adityadeshmukh10/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/adityadeshmukh10/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/adityadeshmukh10/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/adityadeshmukh10/Leetcode/tree/master/0120-triangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityadeshmukh10/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/adityadeshmukh10/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/adityadeshmukh10/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/adityadeshmukh10/Leetcode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityadeshmukh10/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
 |  |
