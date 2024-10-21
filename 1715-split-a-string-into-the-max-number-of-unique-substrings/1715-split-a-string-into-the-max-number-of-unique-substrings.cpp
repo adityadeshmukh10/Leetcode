@@ -2,10 +2,10 @@ class Solution {
 public:
     void solve(string s, int i, unordered_set<string> &st, int currcount, int &maxcount)
     {
-        if(currcount + (s.length()-i) <= maxcount)
-        {
-            return;
-        }
+        // if(currcount + (s.length()-i) <= maxcount)
+        // {
+        //     return;
+        // }
         if(i>=s.length())
         {
             maxcount = max(maxcount,currcount);
