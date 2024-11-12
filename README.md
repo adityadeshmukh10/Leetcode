@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/adityadeshmukh10/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/adityadeshmukh10/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/adityadeshmukh10/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/adityadeshmukh10/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/adityadeshmukh10/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/adityadeshmukh10/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/adityadeshmukh10/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/adityadeshmukh10/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityadeshmukh10/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/adityadeshmukh10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/adityadeshmukh10/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/adityadeshmukh10/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3195-separate-black-and-white-balls](https://github.com/adityadeshmukh10/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2716-prime-subtraction-operation](https://github.com/adityadeshmukh10/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
@@ -508,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adityadeshmukh10/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/adityadeshmukh10/Leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
