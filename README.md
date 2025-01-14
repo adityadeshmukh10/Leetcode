@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adityadeshmukh10/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/adityadeshmukh10/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/adityadeshmukh10/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/adityadeshmukh10/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adityadeshmukh10/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/adityadeshmukh10/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/adityadeshmukh10/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adityadeshmukh10/Leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/adityadeshmukh10/Leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/adityadeshmukh10/Leetcode/tree/master/0120-triangle) |
