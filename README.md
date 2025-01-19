@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/adityadeshmukh10/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/adityadeshmukh10/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/adityadeshmukh10/Leetcode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/adityadeshmukh10/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/adityadeshmukh10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/adityadeshmukh10/Leetcode/tree/master/0729-my-calendar-i) |
+| [0792-binary-search](https://github.com/adityadeshmukh10/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityadeshmukh10/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/adityadeshmukh10/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
