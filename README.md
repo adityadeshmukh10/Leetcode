@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityadeshmukh10/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityadeshmukh10/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/adityadeshmukh10/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/adityadeshmukh10/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/adityadeshmukh10/Leetcode/tree/master/0048-rotate-image) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adityadeshmukh10/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/adityadeshmukh10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityadeshmukh10/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
