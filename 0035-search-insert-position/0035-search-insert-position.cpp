@@ -6,14 +6,14 @@ public:
         int low = 0;
         int high = n-1;
         int ans = n;
-        if(target>arr[n-1])
-        {
-            return ans;
-        }
-        else if(target<arr[0])
-        {
-            return 0;
-        }
+        // if(target>arr[n-1])
+        // {
+        //     return ans;
+        // }
+        // else if(target<arr[0])
+        // {
+        //     return 0;
+        // }
         while(low<=high)
         {
             int mid = (low+high)/2;
