@@ -12,27 +12,20 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         vector<int> v;
-        if(head == NULL)
-        {
-            return true;
-        }
         ListNode *curr = head;
-        while(curr!=NULL)
-        {
+
+        while (curr != NULL) {
             v.push_back(curr->val);
             curr = curr->next;
         }
-        vector<int> vt;
-        for(int i=0;i<v.size();i++)
-        {
-            vt.push_back(v[i]);
-        }
-        reverse(vt.begin(),vt.end());
 
-        if(vt == v)
-        {
-            return true;
+        int n = v.size();
+        for (int i = 0; i < n / 2; i++) {
+            if (v[i] != v[n - i - 1]) {
+                return false; 
+            }
         }
-        return false;
+
+        return true; 
     }
 };
