@@ -17,12 +17,12 @@ public:
         if(n == count)
         {
             ListNode *head2 = head->next;
-            delete head; // Free memory
+            delete head; 
             return head2;
         }
 
         int z = count - n;
-        int count2 = 1; // Start from 1 since we want to stop at (z-1)th node
+        int count2 = 1; 
         ListNode *temp = head;
         while(temp != NULL)
         {
@@ -30,7 +30,7 @@ public:
             {
                 ListNode *curr2 = temp->next;
                 temp->next = curr2->next;
-                delete curr2; // Free memory
+                delete curr2; 
                 break;
             }
             else
