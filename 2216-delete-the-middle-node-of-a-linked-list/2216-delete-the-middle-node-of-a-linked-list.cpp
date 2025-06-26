@@ -15,6 +15,7 @@ public:
         {
             return head;
         }
+        
         ListNode *curr = head;
         int count = 0;
         while(curr!=NULL)
@@ -22,7 +23,10 @@ public:
             count++;
             curr=curr->next;
         }
-
+        if(count == 1)
+        {
+            return NULL;
+        }
         ListNode *temp = head;
         int h = 1;
 
