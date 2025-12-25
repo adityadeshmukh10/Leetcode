@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityadeshmukh10/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/adityadeshmukh10/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/adityadeshmukh10/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adityadeshmukh10/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityadeshmukh10/Leetcode/tree/master/0268-missing-number) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adityadeshmukh10/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adityadeshmukh10/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adityadeshmukh10/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/adityadeshmukh10/Leetcode/tree/master/0273-integer-to-english-words) |
