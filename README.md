@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityadeshmukh10/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/adityadeshmukh10/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityadeshmukh10/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/adityadeshmukh10/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityadeshmukh10/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityadeshmukh10/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/adityadeshmukh10/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityadeshmukh10/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityadeshmukh10/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/adityadeshmukh10/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/adityadeshmukh10/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/adityadeshmukh10/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/adityadeshmukh10/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/adityadeshmukh10/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/adityadeshmukh10/Leetcode/tree/master/1002-maximum-width-ramp) |
