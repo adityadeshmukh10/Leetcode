@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/adityadeshmukh10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/adityadeshmukh10/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/adityadeshmukh10/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/adityadeshmukh10/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/adityadeshmukh10/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/adityadeshmukh10/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/adityadeshmukh10/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adityadeshmukh10/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityadeshmukh10/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
