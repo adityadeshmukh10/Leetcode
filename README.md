@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adityadeshmukh10/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1903-largest-odd-number-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityadeshmukh10/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/adityadeshmukh10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/adityadeshmukh10/Leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/adityadeshmukh10/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/adityadeshmukh10/Leetcode/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityadeshmukh10/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2716-prime-subtraction-operation](https://github.com/adityadeshmukh10/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/adityadeshmukh10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/adityadeshmukh10/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/adityadeshmukh10/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/adityadeshmukh10/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/adityadeshmukh10/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityadeshmukh10/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
