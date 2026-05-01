@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityadeshmukh10/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityadeshmukh10/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/adityadeshmukh10/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityadeshmukh10/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityadeshmukh10/Leetcode/tree/master/0027-remove-element) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityadeshmukh10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityadeshmukh10/Leetcode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/adityadeshmukh10/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/adityadeshmukh10/Leetcode/tree/master/0125-valid-palindrome) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/adityadeshmukh10/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/adityadeshmukh10/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/adityadeshmukh10/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/adityadeshmukh10/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
